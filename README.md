@@ -4,7 +4,7 @@ Material Design Icons taken from official material design icons [repository](htt
 
 ## What's the difference
 
-Icons sorted in a way so it is easy to integrate to your android project by copying drawable-* folder for each icon and pasting to Android Studio. 
+Icons have been sorted in a way so it is easy to integrate to your android project by copying drawable-* folder for each icon and pasting to Android Studio. 
 
 A live [preview](http://google.github.io/material-design-icons/)  of the icon set is available.
 
